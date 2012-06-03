@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;PacoteUm.Verificador&apos; to &apos;VerificadorTeste&apos;&#x0D;&#x0A;- Original project: &apos;testePotz&apos;&#x0D;&#x0A;- Original element: &apos;PacoteUm.Verificador&apos;&#x0D;&#x0A;- Renamed element: &apos;PacoteUm.VerificadorTeste&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Verificador&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;PacoteUm{Verificador.java[Verificador" matchStrategy="1" name="VerificadorTeste" qualified="false" references="true" similarDeclarations="false" stamp="1338656618602" textual="false" version="1.0"/>
+</session>

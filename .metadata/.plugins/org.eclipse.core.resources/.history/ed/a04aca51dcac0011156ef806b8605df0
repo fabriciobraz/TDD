@@ -1,0 +1,13 @@
+package PacoteUm;
+
+import junit.framework.Assert;
+
+import org.junit.Test;
+
+public class VerificaMod11 {
+	@Test
+	public void verificaCupom(){
+		Assert.assertEquals("Validando Cupom:", true, cupom.validaCupom("5001234568"));
+	
+	}
+}
