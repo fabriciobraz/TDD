@@ -15,3 +15,10 @@ public class VerificadorTeste  {
 	
 
 }
+
+// Teste inicial do junit
+// 1º Teste: compilação passando String
+// 2º Teste: Testar Potz Válidos e invalidos
+//
+//
+//
